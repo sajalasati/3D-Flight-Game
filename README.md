@@ -1,6 +1,6 @@
 # 3D Flight Simulator Game
 
-###Player controls
+### Player controls
 
 - A - tilt anticlockwise
 - D - tilt clockwise
