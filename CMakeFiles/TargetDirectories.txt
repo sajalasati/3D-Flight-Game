@@ -1,0 +1,3 @@
+/home/sajal/fighter-plane/CMakeFiles/rebuild_cache.dir
+/home/sajal/fighter-plane/CMakeFiles/graphics_asgn1.dir
+/home/sajal/fighter-plane/CMakeFiles/edit_cache.dir
